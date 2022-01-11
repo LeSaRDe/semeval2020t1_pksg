@@ -1,1 +1,1 @@
-semeval2020t1_pksg
+Use PKSG to address SemEval2020T1
